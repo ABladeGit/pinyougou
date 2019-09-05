@@ -1,0 +1,4 @@
+com\pinyougou\xinxi\service\impl\ItemServiceImpl.class
+com\pinyougou\xinxi\service\impl\ItemCatServiceImpl.class
+com\pinyougou\xinxi\service\impl\OrderServiceImpl.class
+com\pinyougou\xinxi\service\impl\OrderItemServiceImpl.class
